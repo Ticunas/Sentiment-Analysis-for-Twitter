@@ -1,1 +1,3 @@
-Sentiment Analysis for Twitter
+# Sentiment Analysis for Twitter
+
+Simple sentiment analysis using a custom dictionary
